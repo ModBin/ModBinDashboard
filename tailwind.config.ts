@@ -18,6 +18,9 @@ const config: Config = {
       },
     },
   },
+  fontFamily: {
+    prompt: ['Prompt', 'sans-serif'],
+  },
   plugins: [],
 };
 export default config;
